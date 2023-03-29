@@ -32,3 +32,5 @@ Implementing Meme API with the help of retrofit and Coroutines and storing that 
     implementation 'com.github.bumptech.glide:glide:4.14.2'
     annotationProcessor 'com.github.bumptech.glide:compiler:4.14.2'
 
+
+- In my previous repository, I already talked about [Retrofit Coroutines and MVVM](https://github.com/ArjunGupta08/Retrofit-Coroutines-MvvM), here I'll implement Room Database and using [Retrofit](https://square.github.io/retrofit/) and coroutines I'll get data from the meme API and store that data into our implemented Room Database.
